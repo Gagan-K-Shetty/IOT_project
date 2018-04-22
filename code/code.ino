@@ -11,9 +11,9 @@
 /****************************************
    Define Constants
  ****************************************/
-#define TOKEN "BBFF-v57qnu6xCWhJ3rrxhvXVAlPs4SH3se" // Your Ubidots TOKEN
-#define WIFINAME "Honor8" //Your SSID
-#define WIFIPASS "1234567c" // Your Wifi Password
+#define TOKEN "" // Your Ubidots TOKEN
+#define WIFINAME "" //Your SSID
+#define WIFIPASS "" // Your Wifi Password
 
 #define sensor    A0       // Hook water sensor to pin A0 of NODEMCU module
 #define LED       D4       // Led in NodeMCU/WeMos D1 Mini at pin GPIO2 (D4)
